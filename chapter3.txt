@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 It was the spring of hope, it was the winter of despair.
+=======
+It was the spring of hope, it was the despair of winter.
+>>>>>>> e19f2884cbab42a7ca71806524b7e4e0a28088b0

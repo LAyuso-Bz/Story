@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 It was the age of aliens, it was the age of humans.
+=======
+It was the age of wisdon, it was the age of foolishness.
+>>>>>>> e19f2884cbab42a7ca71806524b7e4e0a28088b0

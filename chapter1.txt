@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 It was the best of space, it was the worst of space.
+=======
+It was the best of times, it was the worst of times.
+>>>>>>> e19f2884cbab42a7ca71806524b7e4e0a28088b0
